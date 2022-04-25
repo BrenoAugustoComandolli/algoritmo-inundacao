@@ -1,2 +1,2 @@
 # algoritmo-inundacao
-Algoritmo de Inundação - Faculdade
+Algoritmo de Inundação - Exemplo
