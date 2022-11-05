@@ -1,2 +1,2 @@
-# algoritmo-inundacao
-Algoritmo de Inundação - Exemplo
+# algoritmo_inundacao
+ Algoritmo de inundação
